@@ -20,7 +20,7 @@ Github Twitter LinkedIn Medium
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+
 </p>
 <h3>Open source projects</h3>
 
@@ -29,7 +29,6 @@ Github Twitter LinkedIn Medium
 📫 How to reach me ismailkurtlojistik@gmail.com
 Languages and Tools:
 bash bootstrap css3 django figma git html5 javascript linux nodejs postgresql python react redux sass sketch tailwind vuejs
-<h3>Where to find me</h3>
 <p>
 </p>
  
