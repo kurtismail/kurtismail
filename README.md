@@ -2,7 +2,7 @@
   I'm İsmail KURT, Full Stack Web Developer :computer: 
 
 🔭 I’m currently working on Frontend and Backend Development
-🌱 I’m currently learning Python, JavaScript, HTML/CSS, SQL, React, Django
+🌱 I’m currently learning Python, JavaScript, HTML/CSS, bootstrap, Sass,TailWind, SQL, React, typeScript, Django
 📫 How to reach me ismailkurtlojistik@gmail.com
 
 
