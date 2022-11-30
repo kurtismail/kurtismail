@@ -1,5 +1,5 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  I'm İsmail KURT, Full Stack Web Developer :computer: 
+  I'm İsmail KURT, Front End Developer :computer: 
 
 🔭 I’m currently working on Frontend and Backend Development
 🌱 I’m currently learning Python, JavaScript, HTML/CSS, bootstrap, Sass,TailWind, SQL, React, typeScript, Django
