@@ -4,7 +4,7 @@
 🔭 I’m currently working on Frontend and Backend Development
 🌱 I’m currently learning Python, JavaScript, HTML/CSS, bootstrap, Sass,TailWind, SQL, React, typeScript, Django
 </br>
-📫 How to reach me ismailkurtlojistik@gmail.com
+📫 How to reach me (https://portfolyo-dmft80lqa-kurtismail.vercel.app/)
 
 
  <p align="center">
