@@ -2,7 +2,7 @@
   I'm İsmail KURT, Front End Developer :computer: 
 
 🔭 I’m currently working on Frontend and Backend Development
-🌱 I’m currently learning Python, JavaScript, HTML/CSS, bootstrap, Sass,TailWind, SQL, React, typeScript, Django
+🌱 I’m currently learning React.js, Django, Next.js, Python, JavaScript, HTML/CSS, Bootstrap, Sass, TailWind.css, PostgreSQL, TypeScript
 </br>
 📫 How to reach me (https://portfolyo-dmft80lqa-kurtismail.vercel.app/)
 
