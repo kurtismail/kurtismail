@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/K3bwkZeWlBAas/giphy.gif" align="right" width="400" height="250" >
 
-### Hi there, I'm İsmail KURT :blush: 
+### Hi there,  I'm İsmail KURT :blush: 
  
-## React Developer || Frontend Development
+## React Developer || Frontend Developer
 
 <font color="pink">I’m currently working on Frontend and Backend Development</font>
 <br>
@@ -14,12 +14,12 @@
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />][gmail]
 [<img width="22" src="https://unpkg.com/simple-icons@v8/icons/github.svg" align="left" />][github]
 
-<br>
-<br>
+<br/>
+<br/>
 
-<!-- [linkedin] : https://www.linkedin.com/in/kurtismail/
+[linkedin] : https://www.linkedin.com/in/kurtismail/
 [github] : https://github.com/kurtismail
-[email] : ismailkurtlojistik@gmail.com -->
+[email] : ismailkurtlojistik@gmail.com
 
 
 
@@ -27,33 +27,20 @@
  <p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
   </p>
-</br>
+<br/>
 
 ### Tech I Use
 
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/javascript/javascript.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/typescript/typescript.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/react/react.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/python/python.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/html/html.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/css/css.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/bootstrap/bootstrap.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/sass/sass.png" width="25" height="25">
-<img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/postgresql/postgresql.png" width="25" height="25">
-<!-- <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    </p> -->
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/javascript/javascript.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/typescript/typescript.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/react/react.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/python/python.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/html/html.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/css/css.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/bootstrap/bootstrap.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/sass/sass.png" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/postgresql/postgresql.png" width="25" height="25">
 
 <br>
 <details>
