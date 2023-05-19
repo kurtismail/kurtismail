@@ -10,11 +10,10 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />][gmail]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/github.svg" align="left" />][github]
+[<img width="30" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="30" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />][gmail]
+[<img width="30" src="https://unpkg.com/simple-icons@v8/icons/github.svg" align="left" />][github]
 
-<br/>
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/kurtismail/
@@ -24,9 +23,9 @@
 
 
 
- <p align="center">
+<p align="center">
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-  </p>
+</p>
 <br/>
 
 ### Tech I Use
@@ -42,11 +41,14 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/sass/sass.png" width="25" height="25">
 <img align="left" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/postgresql/postgresql.png" width="25" height="25">
 
-<br>
+<br/>
+<br/>
+
 <details>
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=kurtismail&theme=radical">
 </details>
+<br>
 <br>
 <details>
 <summary>:bulb: Most Use Languages</summary>
@@ -55,7 +57,7 @@
 
 ## Contact Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kurtismail" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
   </a>
