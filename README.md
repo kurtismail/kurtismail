@@ -10,16 +10,16 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />][gmail]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/github.svg" align="left" />][github]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/github.svg" align="left" />]
 
 <br/>
 <br/>
 
-[linkedin] : https://www.linkedin.com/in/kurtismail/
-[github] : https://github.com/kurtismail
-[email] : ismailkurtlojistik@gmail.com
+[linkedin]: https://www.linkedin.com/in/kurtismail/
+[github]: https://github.com/kurtismail
+[email]: ismailkurtlojistik@gmail.com
 
 
 
@@ -61,7 +61,7 @@
   </a>
 
 
-<!-- **ismail_kurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ismail_kurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -72,5 +72,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- ⚡ Fun fact: ...
 
