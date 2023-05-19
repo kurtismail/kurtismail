@@ -10,16 +10,16 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />]
-[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/github.svg" align="left" />]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/gmail.svg" align="left" />][gmail]
+[<img width="22" src="https://unpkg.com/simple-icons@v8/icons/github.svg" align="left" />][github]
 
 <br/>
 <br/>
 
 [linkedin]: https://www.linkedin.com/in/kurtismail/
 [github]: https://github.com/kurtismail
-[email]: ismailkurtlojistik@gmail.com
+[gmail]: ismailkurtlojistik@gmail.com
 
 
 
