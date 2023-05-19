@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" width="350" height="350" >
+<img src="https://media.giphy.com/media/U4FkC2VqpeNRHjTDQ5/giphy-downsized-large.gif" align="right" width="350" height="350" >
+
 ### Hi there, I'm İsmail KURT :blush: 
  
 ## React Developer || Frontend Development
