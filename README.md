@@ -55,11 +55,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtismail&layout=donut-vertical">
 </details>
 
-## Contact Me
+## Contact Me - My Portfolyo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kurtismail" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
+  <a href="https://portfolyo-dmft80lqa-kurtismail.vercel.app/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/108272463?s=96&v=4" alt="portfolyo"/>
   </a>
 
 
