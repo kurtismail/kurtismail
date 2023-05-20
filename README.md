@@ -1,12 +1,13 @@
-<img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif" align="right" width="250" height="400" >
+<img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy.gif" align="right" width="250" height="400" >
 
 ### Hi there,  I'm İsmail KURT :blush: 
  
 ## React Developer || Frontend Developer
 
-<font color="pink">I’m currently working on Frontend and Backend Development</font>
+<font color="pink">⚡ I’m currently working on Frontend and Backend Development</font>
 <br/>
-<font color="pink">I’m currently learning React.js, Django, Next.js, Python, JavaScript, HTML/CSS, Bootstrap, Sass, TailWind.css, PostgreSQL, TypeScript</font>
+<br/>
+<font color="pink">⚡I’m currently learning React.js, Django, Next.js, Python, JavaScript, HTML/CSS, Bootstrap, Sass, TailWind.css, PostgreSQL, TypeScript</font>
 
 ### Reach out to me
 
