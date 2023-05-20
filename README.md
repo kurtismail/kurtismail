@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif" align="right" width="250" height="300" >
+<img src="https://media.giphy.com/media/MWSRkVoNaC30A/giphy-downsized-large.gif" align="right" width="250" height="400" >
 
 ### Hi there,  I'm İsmail KURT :blush: 
  
