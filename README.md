@@ -61,7 +61,7 @@
 
 <p align="left">
   <a href="https://portfolyo-dmft80lqa-kurtismail.vercel.app/" target="_blank">
-    <img src="https://as2.ftcdn.net/v2/jpg/00/88/74/49/1000_F_88744916_2d10nlc9o5pYt7maCIQjZyePT7zL6Ujz.jpg" style="width: 50%" />
+    <img src="https://as2.ftcdn.net/v2/jpg/00/88/74/49/1000_F_88744916_2d10nlc9o5pYt7maCIQjZyePT7zL6Ujz.jpg" style="width: 25%" />
   </a>
  </p>
 <br/>
