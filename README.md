@@ -57,11 +57,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurtismail&layout=donut-vertical">
 </details>
 
-## Contact Me - My Portfolyo
+## Contact Me
 
 <p align="left">
   <a href="https://portfolyo-dmft80lqa-kurtismail.vercel.app/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/D4D35AQHaO4Byb4faPA/profile-framedphoto-shrink_200_200/0/1683618935797?e=1685127600&v=beta&t=mjwwsAm7844pdP9wnvw3sdrR_SLocJI37pVjExk6W-Q" alt="portfolyo" width="50" height="50" />
+   
   </a>
 <br/>
 
